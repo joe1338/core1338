@@ -24,7 +24,7 @@
 
 ---
 
-### hit me up
+### hit me up!
 
 - **discord**: `core.1338`  
 - **feel free to reach out!**
