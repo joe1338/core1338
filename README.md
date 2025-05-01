@@ -1,16 +1,30 @@
-## Hi there 👋
+# core
 
-<!--
-**core1338/core1338** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![banner](https://img.shields.io/badge/%20core%20-%20building%20in%20silence%20-black?style=for-the-badge&logo=github&logoColor=white)
 
-Here are some ideas to get you started:
+> 16 yrs old  
+> currently learning low-level programming and reverse engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### about me
+
+- dev — reverse engineering, low-level systems  
+- tools — c/c++, python, batch, winapi    
+- projects — private. purpose-driven.
+
+---
+
+### github stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=core1338&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=core1338&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+### hit me up
+
+- **discord**: `core.1338`  
+- **feel free to reach out!**
