@@ -1,6 +1,7 @@
 # joe
 
-![banner](https://img.shields.io/badge/%20joe%20-%20building%20in%20silence%20-black?style=for-the-badge&logo=github&logoColor=white)
+![badge](https://img.shields.io/badge/joe-development-black?style=for-the-badge&logo=github&logoColor=white)
+
 
 > 16 yrs old  
 > currently learning low-level programming and reverse engineering.
