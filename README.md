@@ -16,8 +16,12 @@
 ---
 
 ## current projects
-- https://mintycheats.com
+- https://mintycheats.com | Fortnite Externals, Spoofers, Free Products, Much More.
 
+---
+## previous projects
+- https://varium.wtf | Fortnite External, Spoofers, Other Stuff.
+- https://beatware.xyz | Fortnite External (paid & free), Spoofers (paid & free), PC Tools.
 ---
 
 ### github stats
