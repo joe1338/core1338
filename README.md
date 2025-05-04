@@ -24,6 +24,11 @@
 
 ---
 
+## current projects
+- https://mintycheats.com
+
+---
+
 ### hit me up!
 
 - **discord**: `joeisretarded`  
