@@ -11,7 +11,12 @@
 
 - dev — reverse engineering, low-level systems  
 - tools — c/c++, python, batch, winapi    
-- projects — private. purpose-driven.
+- projects — MintyCheats.com
+
+---
+
+## current projects
+- https://mintycheats.com
 
 ---
 
@@ -21,11 +26,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=joe1338&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=joe1338&theme=tokyonight&hide_border=true" width="48%" />
 </p>
-
----
-
-## current projects
-- https://mintycheats.com
 
 ---
 
