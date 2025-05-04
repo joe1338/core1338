@@ -12,7 +12,7 @@
 
 - dev — reverse engineering, low-level systems  
 - tools — c/c++, python, batch, winapi    
-- projects — MintyCheats.com, varium.wtf, avhook.xyz, beatware.xyz
+- projects — MintyCheats.com, varium.wtf, avhook.xyz, visioncheatz.xyz, beatware.xyz
 
 ---
 
