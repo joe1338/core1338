@@ -17,7 +17,7 @@
 ---
 
 ## current projects
-- https://mintycheats.com | Fortnite Externals, Spoofers, Free Products, Much More.
+- https://mintycheats.com | Free Fortnite External, Free Spoofers, Much More.
 
 ---
 ## previous projects
