@@ -23,7 +23,7 @@
 ## previous projects
 - https://varium.wtf | Fortnite External, Spoofers, Other Stuff.
 - https://avhook.xyz | Fortnite External, Spoofers, Free Products, PC Utility Tools.
-- - https://visioncheatz.xyz | Fortnite External (paid & free), Spoofers (paid & free), Other Cool Stuff.
+- https://visioncheatz.xyz | Fortnite External (paid & free), Spoofers (paid & free), Other Cool Stuff.
 - https://beatware.xyz | Fortnite External (paid & free), Spoofers (paid & free), PC Utility Tools.
 ---
 
