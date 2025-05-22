@@ -1,6 +1,6 @@
-# joe
+# karma
 
-![badge](https://img.shields.io/badge/joe-development-black?style=for-the-badge&logo=github&logoColor=white)
+![badge](https://img.shields.io/badge/karma-development-black?style=for-the-badge&logo=github&logoColor=white)
 
 
 > 16 yrs old  
@@ -30,13 +30,13 @@
 ### github stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=joe1338&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=joe1338&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karma1338&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=karma1338&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
 ### hit me up!
 
-- **discord**: `joeisretarded`  
+- **discord**: `wydkarma1`  
 - **feel free to reach out!**
