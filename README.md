@@ -39,5 +39,5 @@
 
 ### hit me up!
 
-- **discord**: `wydkarma1`  
+- **discord**: `wydkarma0.`  
 - **feel free to reach out!**
