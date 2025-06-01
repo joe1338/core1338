@@ -18,6 +18,7 @@
 
 ## current projects
 - https://mintycheats.com | Free Fortnite External, Free Spoofers, Much More.
+- [external.ck](https://discord.gg/UXZ4jH59) | Free Spoofers, Free Fortnite External, Free Tools, Much More.
 
 ---
 ## previous projects
